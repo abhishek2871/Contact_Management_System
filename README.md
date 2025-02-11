@@ -14,7 +14,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/abhishek2871/contact.py
+git clone https://github.com/abhishek2871/contacts-management-system.git
 cd contacts-management-system
 Run the Application
 Depending on your project type:
